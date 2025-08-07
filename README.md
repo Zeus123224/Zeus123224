@@ -30,7 +30,7 @@
 
 ### 📫 How to Reach Me:
 - 📧 Email: hsuleman649@gmail.com
-- 🔗 LinkedIn: *(Add your LinkedIn link here if available)*
+- 🔗 LinkedIn: *(https://www.linkedin.com/in/suleman-hashmi-044b82372)*
 
 ---
 
