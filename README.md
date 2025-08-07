@@ -1,25 +1,37 @@
-<h1 align="center">Hi 👋, I'm M.Suleman</h1>
-<h3 align="center">I am specializing in cyber security trainings.</h3>
-<img allign="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center">Hi 👋, I'm M. Suleman</h1>
+<h3 align="center">Aspiring Cybersecurity Analyst | Remote Work Enthusiast | Based in Pakistan</h3>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeus123224&label=Profile%20views&color=0e75b6&style=flat" alt="zeus123224" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 🌱 I’m currently learning **Web Development**
+### 🚀 Currently Learning:
+- SOC Analyst Tools: Nmap, Wireshark, Burp Suite
+- Networking & Linux Fundamentals
+- Security Monitoring & Threat Detection
+- TryHackMe & Hack The Box Labs
 
-- 📫 How to reach me **Hsuleman649@gmail.com**
+### 🛡️ Career Goals:
+- Land a remote cybersecurity role internationally
+- Build deep skills in penetration testing, incident response, and threat analysis
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suleman hashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suleman hashmi" height="30" width="40" /></a>
-<a href="https://instagram.com/sulema_hashmi.1237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sulema_hashmi.1237" height="30" width="40" /></a>
-</p>
+### 📜 Working Toward:
+- CompTIA Security+ Certification
+- Google Cybersecurity Certificate
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeus123224&show_icons=true&locale=en&layout=compact" alt="zeus123224" /></p>
+### 📂 My Cybersecurity Projects:
+- 📁 `tryhackme-writeups` — Room reports, findings, and solutions
+- 📁 `network-scan-labs` — Nmap and Wireshark traffic analysis
+- 📁 `bash-scripts-for-security` — Scripts for automation and scans
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeus123224&show_icons=true&locale=en" alt="zeus123224" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeus123224&" alt="zeus123224" /></p>
+### 📫 How to Reach Me:
+- 📧 Email: hsuleman649@gmail.com
+- 🔗 LinkedIn: *(Add your LinkedIn link here if available)*
+
+---
+
+🔒 *Building skills one packet at a time...*
